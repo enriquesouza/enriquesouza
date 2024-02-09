@@ -1,14 +1,18 @@
-## Enrique Souza
+# Enrique Souza
+<br />
 <!-- stats -->
+<div align="center">
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/bitcoin.svg" /> Bitcoin &nbsp;
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/ethereum.svg" /> Ethereum &nbsp;
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/solidity.svg" /> Solidity &nbsp;
 
+</div>
+<br />
+<br />
 <!-- Technology Icons -->
 <div align="center">
-  <!-- Placeholder for Bitcoin -->
-  <!-- Placeholder for Ethereum -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" width="40" height="30" alt="Solidity" /> Solidity &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="30" alt="Node.js" /> Node.js &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="30" alt="C#" /> C# &nbsp;
-  <!-- Adding C++ Icon -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="30" alt="C++" /> C++ &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="30" alt="Python" /> Python &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" height="30" alt="Go" /> Go &nbsp;
