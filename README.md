@@ -1,7 +1,9 @@
 
 
 
-# Enrique Souza
+<h1>Enrique Souza</h1>
+<p>Blockchain developer, proficient in:</p>
+
 <br />
 <!-- stats -->
 <div align="center">
