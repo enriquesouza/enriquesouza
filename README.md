@@ -1,4 +1,5 @@
 ## Enrique Souza
+<!-- stats -->
 
 <!-- Technology Icons -->
 <div align="center">
@@ -18,7 +19,17 @@
 
 ##
 
+<br />
+<div align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=enriquesouza&show_icons=true&theme=transparent" alt="GitHub Stats" />&nbsp;&nbsp;
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enriquesouza&layout=compact&theme=transparent" alt="Top Languages" />
+</div>
+
+
+##
+
 <!-- Social Icons -->
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/enriquesouza6)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enricrypto@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enriquesouza)
+
