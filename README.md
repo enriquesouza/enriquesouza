@@ -28,7 +28,7 @@
 
 <br />
 <div align="center">
-        <img src="https://github-readme-stats-eight-pi-51.vercel.app/api?username=enriquesouza&show_icons=true&theme=transparent&include_all_commits=false" alt="GitHub Stats" />&nbsp;&nbsp;
+        <img src="https://github-readme-stats-eight-pi-51.vercel.app/api?username=enriquesouza&show_icons=true&theme=transparent" alt="GitHub Stats" />&nbsp;&nbsp;
         <img src="https://github-readme-stats-eight-pi-51.vercel.app/api/top-langs/?username=enriquesouza&layout=compact&theme=transparent&langs_count=8&count-private=true&hide=html,css,php,PLpgSQL,TSQL,sql" alt="Top Languages" />
 </div>
 
@@ -57,10 +57,10 @@ I have faced my fair share of challenges in my career, but one of the most signi
 <div align="right">
     <a href="https://instagram.com/enriquesouza6">
         <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge">
-    </a> &nbsp;
+    </a>&nbsp;
     <a href="mailto:enricrypto@gmail.com">
         <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">
-    </a> &nbsp;
+    </a>&nbsp;
     <a href="https://www.linkedin.com/in/enriquesouza">
         <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
     </a>
