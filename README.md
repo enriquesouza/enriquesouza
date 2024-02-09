@@ -18,7 +18,6 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="30" alt="Node.js" /> Node.js &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="30" alt="C#" /> C# &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="30" alt="C++" /> C++ &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="30" alt="Python" /> Python &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" height="30" alt="Go" /> Go &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="40" height="30" alt="Swift" /> Swift &nbsp;
@@ -31,7 +30,7 @@
 <br />
 <div align="center">
         <img src="https://github-readme-stats-eight-pi-51.vercel.app/api?username=enriquesouza&show_icons=true&theme=transparent" alt="GitHub Stats" />&nbsp;&nbsp;
-        <img src="https://github-readme-stats-eight-pi-51.vercel.app/api/top-langs/?username=enriquesouza&layout=compact&theme=transparent&langs_count=15&count-private=true" alt="Top Languages" />
+        <img src="https://github-readme-stats-eight-pi-51.vercel.app/api/top-langs/?username=enriquesouza&layout=compact&theme=transparent&langs_count=8&count-private=true&hide=html,css,php,PLpgSQL,TSQL,sql" alt="Top Languages" />
 </div>
 
 
