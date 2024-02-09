@@ -20,7 +20,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="30" alt="C#" /> C# &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="30" alt="Python" /> Python &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" height="30" alt="Go" /> Go &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="40" height="30" alt="Swift" /> Swift &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="30" alt="Linux" /> Linux &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" width="40" height="30" alt="MacOS" /> MacOS
 </div>
@@ -55,9 +54,14 @@ Outside of work, I have a passion for traveling and exploring new cultures. I ha
 I have faced my fair share of challenges in my career, but one of the most significant was navigating the bear market in 2018. Unfortunately, many promising L1 blockchain projects could not survive the market downturn. However, this experience taught me valuable lessons about resilience, adaptability, and the importance of building robust solutions that can withstand market fluctuations.
 
 ##
-
-<!-- Social Icons -->
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/enriquesouza6)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enricrypto@gmail.com)
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enriquesouza)
-
+<div align="right">
+    <a href="https://instagram.com/enriquesouza6">
+        <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge">
+    </a> &nbsp;
+    <a href="mailto:enricrypto@gmail.com">
+        <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">
+    </a> &nbsp;
+    <a href="https://www.linkedin.com/in/enriquesouza">
+        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+    </a>
+</div>
