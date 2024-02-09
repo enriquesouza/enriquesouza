@@ -28,7 +28,7 @@
 
 <br />
 <div align="center">
-        <img src="https://github-readme-stats-eight-pi-51.vercel.app/api?username=enriquesouza&show_icons=true&theme=transparent" alt="GitHub Stats" />&nbsp;&nbsp;
+        <img src="https://github-readme-stats-eight-pi-51.vercel.app/api?username=enriquesouza&show_icons=true&theme=transparent&cache_seconds=60" alt="GitHub Stats" />&nbsp;&nbsp;
         <img src="https://github-readme-stats-eight-pi-51.vercel.app/api/top-langs/?username=enriquesouza&layout=compact&theme=transparent&langs_count=8&count-private=true&hide=html,css,php,PLpgSQL,TSQL,sql" alt="Top Languages" />
 </div>
 
