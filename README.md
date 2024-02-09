@@ -29,7 +29,7 @@
 <br />
 <div align="center">
         <img src="https://github-readme-stats-git-master-enriquesouza.vercel.app/api?username=enriquesouza&show_icons=true&theme=transparent" alt="GitHub Stats" />&nbsp;&nbsp;
-        <img src="https://github-readme-stats-git-master-enriquesouza.vercel.app/api/top-langs/?username=enriquesouza&layout=compact&theme=transparent" alt="Top Languages" />
+        <img src="https://github-readme-stats-git-master-enriquesouza.vercel.app/api/top-langs/?username=enriquesouza&layout=compact&theme=transparent&langs_count=80" alt="Top Languages" />
 </div>
 
 
