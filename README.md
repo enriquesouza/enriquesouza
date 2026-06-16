@@ -50,7 +50,7 @@
 
 ### Hobbies
 
-Outside of work, I have a passion for traveling and exploring new cultures. I have had the opportunity to visit 60 countries, and I am always planning my next adventure. I believe that my love for traveling has helped me become more adaptable and open-minded, which are essential traits for a blockchain developer working in a fast-paced and ever-changing industry.
+Outside of work, I have a passion for traveling and exploring new cultures. I have had the opportunity to visit ~70 countries, and I am always planning my next adventure. I believe that my love for traveling has helped me become more adaptable and open-minded, which are essential traits for a blockchain developer working in a fast-paced and ever-changing industry.
 
 I have faced my fair share of challenges in my career, but one of the most significant was navigating the bear market in 2018. Unfortunately, many promising L1 blockchain projects could not survive the market downturn. However, this experience taught me valuable lessons about resilience, adaptability, and the importance of building robust solutions that can withstand market fluctuations.
 
