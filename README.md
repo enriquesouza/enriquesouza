@@ -20,6 +20,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="30" alt="C#" /> C# &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="30" alt="Python" /> Python &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" height="30" alt="Go" /> Go &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" width="40" height="30" alt="Rust" /> Rust &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="30" alt="Linux" /> Linux &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" width="40" height="30" alt="MacOS" /> MacOS
 </div>
@@ -28,8 +29,8 @@
 
 <br />
 <div align="center">
-        <img src="https://github-readme-stats-eight-pi-51.vercel.app/api?username=enriquesouza&show_icons=true&theme=transparent" alt="GitHub Stats" />&nbsp;&nbsp;
-        <img src="https://github-readme-stats-eight-pi-51.vercel.app/api/top-langs/?username=enriquesouza&layout=compact&theme=transparent&langs_count=10&count-private=true&hide=html,css,php,PLpgSQL,TSQL,sql" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api?username=enriquesouza&show_icons=true&theme=transparent" alt="GitHub Stats" />&nbsp;&nbsp;
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enriquesouza&layout=compact&theme=transparent&langs_count=10&count-private=true&hide=html,css,php,PLpgSQL,TSQL,sql" alt="Top Languages" />
 </div>
 
 ##
