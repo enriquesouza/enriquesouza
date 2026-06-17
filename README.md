@@ -45,8 +45,7 @@ Senior Rust engineer with **3+ years of production Rust at 300K-user scale**, bu
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="30" alt="Linux" /> Linux &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" width="40" height="30" alt="MacOS" /> MacOS &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="30" alt="Docker" /> Docker &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="30" alt="AWS" /> AWS
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="30" alt="Docker" /> Docker
 
 **Databases**
 
